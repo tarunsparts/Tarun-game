@@ -1,2 +1,4 @@
 # Tarun-game
 This is my first game, created by using Python with a interesting result/surprise🎉 after you lose the Game....
+<br>
+Author - Tarun Kumar
